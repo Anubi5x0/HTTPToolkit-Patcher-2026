@@ -10,7 +10,7 @@
   "author": "ayyo42069",
   "license": "MIT",
   "dependencies": {
-    "@electron/asar": "^3.2.9",
+    "@electron/asar": "^4.1.0",
     "@electron/fuses": "^1.8.0",
     "chalk": "4",
     "prompts": "^2.4.2",
